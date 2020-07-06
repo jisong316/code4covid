@@ -5,7 +5,7 @@
          "context_set": ""
         },
         {"tag": "protect",
-         "patterns": ["how do i prevent", "stop transmission", "what is your age", "how old are you", "age?"],
+         "patterns": ["how do i prevent", "stop transmission", "please help me", "what do i do"],
          "responses": ["Wash your hands regularly, avoid touching your eyes, nose and mouth with your hands, and stay away from crowded spaces!"],
          "context_set": ""
         },
